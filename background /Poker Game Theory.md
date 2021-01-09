@@ -23,4 +23,13 @@ optimal against each other. Given this set of strategies, there is no incentive 
 player to deviate from this strategy. The idea here is that there is no player that
 can change their own strategy to improve on their own expectation. 
 
+__MES Equilibrium Strategies__:
+Equilibirum Strategies are maximally exploitative when they are played against unexploitable opponents so they get the properties of MES:
+
+- Individual hands are played in the most profitable way possible, GTO never involves playing a hand less profitably than it should be played. 
+- Strictly dominated strategies will not be part of the equilibrium as they will never be profitable. 
+- The only way a hand can be played in more than one way at the equilibrium is if multiple strategic choices have the same EV. 
+
+### The Indifference Principle: 
+The only way a poker hand can be played in two different ways at the equilibirum is if both of the actions that are being played have the same EV. There is an idea of mutual indifference. If a player is indifferent between two options it, must be because their opponent is making them so. 
 
